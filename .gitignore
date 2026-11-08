@@ -1,0 +1,68 @@
+# Python bytecode and runtime artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments and local Python tooling
+.venv/
+venv/
+env/
+ENV/
+.python-version.local
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
+*~
+
+# Operating-system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Desktop.ini
+
+# IL2CPP / Unity inputs, dumps, and generated binaries
+*.so
+*.dat
+*.apk
+*.zip
+dump.cs
+il2cpp.h
+global-metadata.*
+metadata.*
+sysinfo.dat
+GameAssembly.dll
+Il2CppDumper.exe
+
+# Generated reports, extraction, and temporary working directories
+output/
+outputs/
+logs/
+temp/
+tmp/
+_extract/
+extracted/
+
+# Python logs and transient files
+*.log
+*.tmp
+*.temp
+*.bak
+*.rar
+# Local environment/configuration secrets
+.env
+.env.*
+!.env.example
+*.local
