@@ -13,7 +13,7 @@
 
 **Developer:** Mohammad Karimi · [@mohka1994](https://t.me/mohka1994) · [GitHub: mohamadkarimi2026](https://github.com/mohamadkarimi2026)
 
-   [📖 Interactive Guide (FA/EN)](https://mohamadkarimi2026.github.io/IL2CPP-Dumper-Filter-Suite/guide_fa_en.html) · [Features](#features) · [Quick Start](#quick-start) · [CLI Reference](#command-line-reference)
+[Documentation](https://mohamadkarimi2026.github.io/IL2CPP-Dumper-Filter-Suite/guide_fa_en.html) · [Features](#features) · [Quick Start](#quick-start) · [CLI Reference](#command-line-reference)
 
 </div>
 
@@ -257,7 +257,7 @@ Address annotations are copied from the dump and are useful as cross-reference c
 
 ## Documentation
 
-See the [`docs/guide_fa_en.html`](docs/guide_fa_en.html) for additional documentation. For tool-specific behavior and current options, also consult each script's `--help` output and the external dumper's documentation.
+See the [Documentation](https://mohamadkarimi2026.github.io/IL2CPP-Dumper-Filter-Suite/guide_fa_en.html) for additional documentation. For tool-specific behavior and current options, also consult each script's `--help` output and the external dumper's documentation.
 
 ## Troubleshooting
 
