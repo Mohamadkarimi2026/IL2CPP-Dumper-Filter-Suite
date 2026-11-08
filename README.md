@@ -13,7 +13,7 @@
 
 **Developer:** Mohammad Karimi · [@mohka1994](https://t.me/mohka1994) · [GitHub: mohamadkarimi2026](https://github.com/mohamadkarimi2026)
 
-[`docs/guide_fa_en.html`](docs/guide_fa_en.html) · [Features](#features) · [Quick Start](#quick-start) · [CLI Reference](#command-line-reference)
+   [📖 Interactive Guide (FA/EN)](https://mohamadkarimi2026.github.io/IL2CPP-Dumper-Filter-Suite/guide_fa_en.html) · [Features](#features) · [Quick Start](#quick-start) · [CLI Reference](#command-line-reference)
 
 </div>
 
